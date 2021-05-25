@@ -291,7 +291,7 @@ html {
 body {
 	background: #fff;
 	*zoom: 1;
-	color: #2d3c48;
+	color: #ffffff;
 	font: 14px "SQMarket", "Helvetica Neue", sans-serif;
 	line-height: 20px;
 	width: 100%;
@@ -314,7 +314,7 @@ body.modal {
 }
 
 a {
-	color: #3e8cb7;
+	color: #42b73e;
 	text-decoration: none
 }
 
@@ -476,7 +476,7 @@ p {
 .module-name {
 	font-size: 1.57143em;
 	line-height: 1.18182em;
-	color: #2d3c48;
+	color: #ffffff;
 	font-weight: 300;
 	position: relative;
 	left: -1px
@@ -679,7 +679,7 @@ p {
 }
 
 .profile-content>.profile-image {
-	background-color: #676e75;
+	background-color: #ffffff;
 	margin-bottom: 2.35714em;
 	overflow: hidden;
 	position: relative;
